@@ -41,7 +41,7 @@ password: creator123
 
 ## **Tech Stack**
 
-- **Frontend Framework:** [React.js] (Choose what you used)
+- **Frontend Framework:** [React.js]
 - **CSS Framework:** [Bootstrap/Tailwind]
 - **State Management:** [Redux]
 - **Mock API Tool:** [JSON Server]
