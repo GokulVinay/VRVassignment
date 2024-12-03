@@ -4,7 +4,9 @@
 This project is an admin dashboard for managing users, roles, and permissions in a secure and user-friendly manner. It was built as part of the VRV Security Frontend Developer Intern Assignment to demonstrate my skills in frontend development, UI design, and role-based access control system implementation.
 
 ---
-## **Login Details**##
+ **Login Details**
+**Deployed Link** https://vrv-assignment-fawn.vercel.app/
+
 **Admin**
 email :  admin123@example.com
 password: admin123
