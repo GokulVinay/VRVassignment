@@ -88,7 +88,7 @@ Ensure you have the following installed on your system:
 ---
 
 ## **Screenshots**
-Include relevant screenshots of the application (e.g., User Management, Role Management, Permissions Dashboard).
+
 ![image](https://github.com/user-attachments/assets/66d237a5-46e3-474c-befa-d6cef18df416)
 ADMIN PAGE
 ![image](https://github.com/user-attachments/assets/c61d3855-8421-4a43-830c-e942602f9991)
